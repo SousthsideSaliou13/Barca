@@ -1,0 +1,6 @@
+Creer un projet laravel:
+Entrer dans xamp localhost et taper
+composer create-project --prefer-dist laravel/laravel nom_projet
+
+lancer le serveur php:
+php artisan serve
